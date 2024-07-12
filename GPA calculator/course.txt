@@ -1,0 +1,7 @@
+Programming 1;CSC402;3
+Introduction to Interactive Multimedia;CSC413;3
+Computer Organization and Architecture;CSC429;3
+Falsafah dan Isu Semasa;CTU552;2
+Kesatria Negara 1;HBU111;1
+Database Design and Development;ICT450;3
+Foundation Mathematics;MAT406;3
